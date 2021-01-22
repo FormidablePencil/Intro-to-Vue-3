@@ -1,5 +1,7 @@
+
+
 const app = Vue.createApp({
-    data() {
+    data() { /* data is a predefined method */
         return {
             product: 'Socks',
             // Solution
